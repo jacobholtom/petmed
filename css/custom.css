@@ -2,6 +2,28 @@
 body {
 	padding-top: 70px;
 }
+
+.glyphicon {
+	color: #cdae51;
+}
+
+.btn-info {
+	background-color: #cdae51;
+	border-color: #3f2b22;
+}
+
+.btn-info:hover {
+	background-color: #3f2b22;
+	border-color: #333;
+}
+
+.tab-pane {
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 1em;
+}
+
 footer {
 	border-top-width: 1px;
 	border-top-style: solid;
@@ -16,3 +38,4 @@ footer {
 	padding-bottom: 2em;
 	padding-left: 0em;
 }
+
